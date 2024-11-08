@@ -1,0 +1,6 @@
+//MO000-001.TXT ANA00000 TO ANA00001
+produits		NFI		nouveau fichier
+exemplaires		NFI		nouveau fichier
+produits_exemplaires		NFI		nouveau fichier
+Contrainte_produits_exemplaires		NWL	produits (IDproduits) et produits_exemplaires (IDproduits)	Nouvelle liaison entre les fichiers produits (IDproduits) et produits_exemplaires (IDproduits)
+Contrainte_exemplaires_produits		NWL	exemplaires (IDexemplaires) et produits_exemplaires (IDexemplaires)	Nouvelle liaison entre les fichiers exemplaires (IDexemplaires) et produits_exemplaires (IDexemplaires)
