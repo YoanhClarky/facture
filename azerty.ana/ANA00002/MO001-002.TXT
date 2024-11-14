@@ -1,0 +1,5 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+produits_exemplaires		TAR	39	nouvelle taille enregistrement : 39
+produits_exemplaires	Qte	RUB+		Qte est une nouvelle rubrique
+produits_exemplaires	PrixTotal	RUB+		PrixTotal est une nouvelle rubrique
+categories		NFI		nouveau fichier
